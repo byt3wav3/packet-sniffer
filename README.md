@@ -15,4 +15,4 @@ For more info, see `pipeline.txt` — it contains some notes about upcoming feat
 
 *Happy sniffing!*
 
-Contact: bytewave.sec91@gmail.com for any questions on this project
+Contact: bytewave.sec91@gmail.com for any questions on this project?
